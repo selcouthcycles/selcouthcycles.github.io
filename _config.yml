@@ -2,8 +2,8 @@
 title: Selcouth Cycles
 email: kohlkinning@gmail.com
 description: Custom wheelbuilding and bicycle repair services in Denver, CO
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://selcouthcycles.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author: Kohl Kinning
 # street_address:
 city: Denver
