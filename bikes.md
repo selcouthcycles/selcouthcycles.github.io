@@ -1,6 +1,6 @@
 ---
 title: bikes
-image: bike.jpg
+image: bike.png
 ---
 
 Add info about products once suppliers are secured.
