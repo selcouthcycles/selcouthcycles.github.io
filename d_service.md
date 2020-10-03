@@ -10,8 +10,8 @@ title: service
 	<h3 class="major">WHEEL REFRESHER<br/>$49.99</h3>
 	<b>Ensure your wheels are in good shape for that next ride.</b>
 	<ul>
-		<li>Rebuild hubs</li>
 		<li>Comprehensive true and dish</li>
+		<li>Rebuild hubs</li>
 		<li>Bring wheel to correct tension</li>
 		<li>Replace damged nipples/spokes</li>
 		<li>Replace rim tape</li>
