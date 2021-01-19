@@ -2,7 +2,7 @@
 title: contact
 ---
 
-<form action="https://formspree.io/{{ site.email }}" method="POST">
+<form action="https://formspree.io/f/kohlkinning@gmail.com" method="POST">
 	<div class="fields">
 		<div class="field half first">
 			<label for="name">Name</label>
